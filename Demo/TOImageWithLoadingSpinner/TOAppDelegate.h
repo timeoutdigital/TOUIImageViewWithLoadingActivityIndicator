@@ -1,7 +1,4 @@
 //
-//  Created by Michael May on 30/04/2013.
-//  Copyright (c) 2013 Michael May. All rights reserved.
-//
 //  The MIT License (MIT)
 //
 //  Copyright (c) 2013 Time Out Limited
